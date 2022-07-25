@@ -84,10 +84,11 @@ nav ul li{
     justify-content: space-between;
     align-items: center;
     border-radius: 34px;
+    background-image: url('queryback.jpg');
 }
 
 .songItem img{
-    width: 43px;
+    width: 34px;
     margin: 0 23px;
     border-radius: 34px;
 }
