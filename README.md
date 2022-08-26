@@ -1,1 +1,1 @@
-# SPORTIFY-CLONE https://sporify-clone-sourik-parui.netlify.app/
+# SPORTIFY-CLONE https://esportifyclone.web.app/
